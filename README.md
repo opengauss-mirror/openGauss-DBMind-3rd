@@ -56,9 +56,9 @@ https://github.com/opengauss-mirror/openGauss-DBMind (镜像)
 
 # 常见问题解答
 ## 如何获得一个可用的Python运行环境?
-我们强烈建议您使用minicode来构建Python运行环境，而不是使用操作系统自带的Python.
+我们强烈建议您使用miniconda来构建Python运行环境，而不是使用操作系统自带的Python.
 
-Minicoda的镜像下载地址:
+Miniconda的镜像下载地址:
 https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda
 
 Miniconda的官方下载地址:
